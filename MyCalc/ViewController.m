@@ -41,6 +41,13 @@
     } else {
         
     }
+    
+    NSString *foo = @"foo";
+    NSString *foo1 = @"foo";
+    NSString *foo2 = @"foo";
+    NSString *foo3 = @"foo";
+    NSString *foo4 = @"foo";
+    
 }
 
 @end
