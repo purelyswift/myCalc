@@ -47,6 +47,12 @@
     NSString *bar2 = @"bar";
     NSString *bar3 = @"bar";
     NSString *bar4 = @"bar";
+
+NSString *foo = @"foo";
+    NSString *foo1 = @"foo";
+    NSString *foo2 = @"foo";
+    NSString *foo3 = @"foo";
+    NSString *foo4 = @"foo";
     
 }
 
