@@ -28,6 +28,17 @@
     // Dispose of any resources that can be recreated.
 }
 - (IBAction)onOperationTap:(UIButton *)sender {
+    self.operationLabel.text = sender.currentTitle;
+    NSString *operation = self.operationLabel.text;
+    if ([operation isEqualToString:@"+"]) {
+        
+    } else if ([operation isEqualToString:@"-"]) {
+        
+    } else if ([operation isEqualToString:@"x"]) {
+        
+    } else {
+        
+    }
 }
 
 @end
